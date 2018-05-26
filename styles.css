@@ -1,3 +1,11 @@
+.medium {
+	margin-top: 5px;
+}
+
+.card-image {
+	margin-top: -10px;
+}
+
 .info img {
 	width: 100%;
 	display:block;
@@ -8,10 +16,7 @@
 	border-radius: 50px;
 }
 
-.medium {
-	margin-top: 5px;
-}
-
-.card-image {
-	margin-top: -10px;
+.info img:hover {
+	transform: scale(1.2); 
+	opacity: 0.6;
 }
