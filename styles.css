@@ -1,0 +1,17 @@
+.info img {
+	width: 100%;
+	display:block;
+    margin:auto;
+    margin-top: 30px;
+    -moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+}
+
+.medium {
+	margin-top: 5px;
+}
+
+.card-image {
+	margin-top: -10px;
+}
